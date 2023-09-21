@@ -1,2 +1,2 @@
 # SNAKE-LADDER
-This is a simple python code for make snake and ladder game.
+This is a simple python code for creating snake and ladder game.
